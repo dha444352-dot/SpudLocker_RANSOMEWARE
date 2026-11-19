@@ -34,3 +34,7 @@ The developer is not responsible for data loss, device damage, or misuse of this
 Educational and Research Use Only.
 
 This project aims to promote cybersecurity awareness and help researchers better understand Android ransomware threats and defensive security practices.
+
+<img width="326" height="567" alt="Screenshot 2026-11-19 185753" src="https://github.com/user-attachments/assets/d19646de-2d66-4b81-a9ee-cc3bf9ce33fd" />
+<img width="1130" height="754" alt="Screenshot 2026-11-19 185732" src="https://github.com/user-attachments/assets/27301b08-4362-42c7-8450-df8a8b93ba51" />
+
